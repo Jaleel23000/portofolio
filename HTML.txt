@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio | Electrical & Automation Engineer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+      line-height: 1.6;
+    }
+    .container {
+      width: 90%;
+      max-width: 1000px;
+      margin: auto;
+      padding: 2rem;
+      background: #fff;
+    }
+    h1, h2, h3 {
+      color: #005a9c;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 2rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 0.75rem;
+      text-align: left;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>[Your Full Name]</h1>
+    <p><strong>Electrical & Automation Engineer | M.Sc. in Sustainability Engineering</strong></p>
+    <p>Email: your.email@example.com | Phone: +358... | <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> | <a href="https://github.com/yourprofile">GitHub</a></p>
+
+    <div class="section">
+      <h2>Profile Summary</h2>
+      <p>I am a multidisciplinary engineer focused on electrical design, automation systems, and sustainability. I specialize in CADMATIC Electrical, PLC programming, and smart energy systems integrated with IoT and machine learning.</p>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p><strong>Master of Science in Sustainability Engineering</strong>, HAMK – YYYY</p>
+      <p><strong>Bachelor of Engineering in Electrical and Automation Engineering</strong>, University – YYYY</p>
+    </div>
+
+    <div class="section">
+      <h2>Technical Skills</h2>
+      <table>
+        <tr><th>Category</th><th>Tools / Technologies</th></tr>
+        <tr><td>Electrical Design</td><td>CADMATIC Electrical, AutoCAD Electrical, EPLAN</td></tr>
+        <tr><td>Automation & PLC</td><td>Siemens TIA Portal, TwinCAT, WinCC</td></tr>
+        <tr><td>Programming</td><td>Python, Structured Text, Ladder Logic</td></tr>
+        <tr><td>IoT</td><td>Node-RED, Raspberry Pi, MQTT</td></tr>
+        <tr><td>Data/ML</td><td>Pandas, Scikit-learn, Power BI</td></tr>
+      </table>
+    </div>
+
+    <div class="section">
+      <h2>Selected Projects</h2>
+      <ul>
+        <li><strong>Electrical Design with CADMATIC:</strong> Designed complete electrical distribution with automation and documentation.</li>
+        <li><strong>Predictive Maintenance ML:</strong> Created an ML model for motor failure prediction using sensor data.</li>
+        <li><strong>PLC Conveyor Automation:</strong> Developed a sorting conveyor using Siemens PLC and HMI.</li>
+        <li><strong>Hybrid Solar System:</strong> Simulated and optimized a solar+battery system using HOMER Pro.</li>
+        <li><strong>IoT Energy Monitoring:</strong> Built real-time monitoring with Raspberry Pi and Node-RED.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Certifications</h2>
+      <ul>
+        <li>Machine Learning – Coursera (2024)</li>
+        <li>Industrial Design with CADMATIC – CADMATIC Academy (2024)</li>
+        <li>Python for Data Science – IBM/edX (2023)</li>
+        <li>IoT Applications – Cisco (2023)</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Languages</h2>
+      <ul>
+        <li>English – Professional Proficiency</li>
+        <li>Finnish – Intermediate</li>
+        <li>Arabic – Native</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Links</h2>
+      <ul>
+        <li><a href="https://opintopolku.fi/koski/opinnot/f2a7426c060b43e2a5eab0b96d1b271d">KOSKI Study Record</a></li>
+        <li><a href="#">Download Portfolio (PDF)</a></li>
+      </ul>
+    </div>
+
+    <footer>
+      &copy; 2025 [Your Name] | Portfolio Website
+    </footer>
+  </div>
+</body>
+</html>
